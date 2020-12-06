@@ -1,1 +1,1 @@
-# JavascriptHomework
+# PasswordGenerator
